@@ -9,5 +9,6 @@ Via mon activité de recrutement, j'ai pu observer des entreprises qui avaient d
 | CARREFOUR LINKS | TypeScript, Vue.js | NC | - |
 | ACCOR | Java | Issy-Les-Moulineaux | - |
 | AIR France | Node, TypeScript | Paris | - |
+| ANJ | Node, TypeScript | Issy-les-Moulineaux | - |
 
 Sinon, bon courage de la part de Tata Shishi. Je sais, c'est la loose en ce moment. Bien cordialement, bisous
