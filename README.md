@@ -3,7 +3,7 @@ Via mon activité de recrutement, j'ai pu observer des entreprises qui avaient d
 
 | Nom entreprise | stack | localisation |Mes remarques |
 | ----------- | ----------- |----------- |----------- |
-| Club Med| Node | Paris |- |
+| CLUB MED| Node | Paris |- |
 | EDF | Java | Lyon | gros projet de recrutement sur 2024 |
 | L'ATELIER | Environnement Microsoft | Paris | j'ai déjà travaillé avec eux. Ils développent une activité plus poussée avec le monde du freelancing |
 | CARREFOUR LINKS | TypeScript, Vue.js | NC | - |
