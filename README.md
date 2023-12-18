@@ -10,5 +10,9 @@ Via mon activité de recrutement, j'ai pu observer des entreprises qui avaient d
 | ACCOR | Java | Issy-Les-Moulineaux | - |
 | AIR France | Node, TypeScript | Paris | - |
 | ANJ | Node, TypeScript | Issy-les-Moulineaux | - |
+|TOTAL ENERGIES | Angular, TypeScript | Nanterre | - |
+|CITRON | Angular, TypeScript | Suresnes | - |
+|CANAL+ | Angular, TypeScript | Boulogne-Billancourt | - |
+|AIR LIQUIDE | Angular, TypeScript | Paris | - |
 
 Sinon, bon courage de la part de Tata Shishi. Je sais, c'est la loose en ce moment. Bien cordialement, bisous
