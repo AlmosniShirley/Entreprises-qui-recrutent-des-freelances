@@ -14,5 +14,6 @@ Via mon activité de recrutement, j'ai pu observer des entreprises qui avaient d
 |CITRON | Angular, TypeScript | Suresnes | - |
 |CANAL+ | Angular, TypeScript | Boulogne-Billancourt | - |
 |AIR LIQUIDE | Angular, TypeScript | Paris | - |
+|RENAULT GROUPE| Angular, TypeScript | Le Plessis-Robinson | - |
 
 Sinon, bon courage de la part de Tata Shishi. Je sais, c'est la loose en ce moment. Bien cordialement, bisous
